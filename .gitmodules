@@ -1,0 +1,7 @@
+[submodule "islab_autopilot"]
+	path = islab_autopilot
+	url = https://github.com/VM-Thuan-2003/ISLAB-Autopilot.git
+	branch = release/1.15
+[submodule "islab_px4"]
+	path = islab_px4
+	url = https://github.com/VM-Thuan-2003/px4-islab.git
