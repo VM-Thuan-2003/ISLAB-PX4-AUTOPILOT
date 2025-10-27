@@ -5,3 +5,4 @@
 [submodule "islab_px4"]
 	path = islab_px4
 	url = https://github.com/VM-Thuan-2003/px4-islab.git
+	branch = release
